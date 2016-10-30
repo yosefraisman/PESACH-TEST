@@ -1,6 +1,11 @@
+/*
+ * pesach_.cpp
+ * Author: Yosef
+ */
 #include <iostream>
 using namespace std;
 
+// prints the lyrics to "Echad Mi Yodea"
 int main(int argc, char** argv) {
     for (int i = 1; i < 14; i++) {
         cout << i << " מי יודע?" << endl << i << " אני יודע" << endl;
