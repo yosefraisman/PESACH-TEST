@@ -3,6 +3,7 @@
 This C++ project prints out the traditional Passover song "Echad Mi Yodea"
 ## Insight and Recommended Reading
 While this repo was primarily made to test out SSH'ing into GitHub from the command line in Linux, there are quite a few interesting things we can say about cumulative songs in general and "Echad Mi Yodea" specifically.
+For example, this song was used to bridge the gap between Jewish and English cultures, in a 1924 Hebrew translation of Alice in Wonderland; The English version has Alice failing to recite "How doth the little busy bee" ("Against Idleness and Mischief"), while in the translation she uses "Echad Mi Yodea". By the way, in this particular translation Alice is renamed Alisa, as a part of this attempt, to remove any foreign names and non-Jewish cultural references.
 
 I recommend following these links for more information:
 * [The Complexity of Songs](http://fivedots.coe.psu.ac.th/Software.coe/242-535_ADA/Background/Readings/knuth_song_complexity.pdf), by Donald Knuth; An amusing article which applies computational complexity calculation to popular songs.
